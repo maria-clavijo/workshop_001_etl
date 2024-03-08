@@ -9,7 +9,7 @@ It is crucial to acknowledge that these data were generated randomly, which prev
 
 - Python
 - Jupyter Notebook 
-- Base de Datos Relacional MySQL
+- MySQL Relational Database
 - Power BI
 
 
@@ -19,6 +19,7 @@ It is crucial to acknowledge that these data were generated randomly, which prev
 
 2. Installs the required libraries found in the files. In the terminal type:
 ```pip install "librarie name"
+```
 
 3. Configure connection to MySQL database.
 - Configures the "db_config.ini" file for connection to the MySQL database, it must have the host, user and password.
