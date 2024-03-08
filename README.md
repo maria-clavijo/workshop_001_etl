@@ -18,18 +18,10 @@ It is crucial to acknowledge that these data were generated randomly, which prev
 1. Clone the repository on your local machine.
 
 2. Installs the required libraries found in the files. In the terminal type:
-```pip install "librarie name"
-```
+```pip install "librarie name" ```
 
 3. Configure connection to MySQL database.
 - Configures the "db_config.ini" file for connection to the MySQL database, it must have the host, user and password.
 
 4. Run the code.
-
-
-
-## Licencia
-
-Este proyecto está bajo la Licencia [Nombre de la Licencia](URL de la Licencia).
-
 
